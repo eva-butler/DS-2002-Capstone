@@ -1,0 +1,4 @@
+order_type_id,order_type_key,order_type_name,channel
+1,DINE_IN,Dine-in,On-premise
+2,TAKEOUT,Takeout,Off-premise
+3,DELIVERY,Delivery,Off-premise
