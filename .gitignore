@@ -1,9 +1,12 @@
 warehouse/
 notebooks/warehouse/
+notebooks/spark-warehouse/
+notebooks/data/orders_stream/
 
 
 .ipynb_checkpoints/
 __pycache__/
+*.pyc
 
 
 .DS_Store
